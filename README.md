@@ -9,4 +9,4 @@
 
 05. Statistical arbtrage 统计套利
 
-更多内容欢迎关注微信公众平台：PHBS量化交易（phbs-）
+更多内容欢迎关注微信公众平台：PHBS量化交易（phbs-qta）
