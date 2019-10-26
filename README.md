@@ -1,4 +1,4 @@
-# QtaTraining2019
+# QTA2019培训
 01. Python programming Python 编程基础
 
 02. Multi-factor I 多因子I策略基本逻辑
