@@ -1,7 +1,7 @@
 # QtaTraining2019
 01. Python programming Python 编程基础
 
-02. Multi-factor I 多因子I主流因子模型及单因子回测
+02. Multi-factor I 多因子I策略基本逻辑
 
 03. Multi-factor II 多因子II多因子选股与组合优化
 
