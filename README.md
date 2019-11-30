@@ -9,4 +9,6 @@
 
 05. Statistical arbtrage 统计套利
 
+06. Machine Learning 机器学习
+
 更多内容欢迎关注微信公众平台：PHBS量化交易（phbs-qta）
