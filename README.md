@@ -15,4 +15,6 @@
 
 08. Asset Allocation 资产配置
 
+09. Smart Beta
+
 更多内容欢迎关注微信公众平台：PHBS量化交易（phbs-qta）
